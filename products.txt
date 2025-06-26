@@ -1,0 +1,5 @@
+Vitamin C Serum,    Garnier, 158, 1000.0,    France
+Skin Cleanser,    Cetaphil, 84, 280.0,    Switzerland
+Sunscreen,    Aqualogica, 200, 700.0,    India
+Foundation,    Neutrogena, 395, 500.0,    Germany
+Mosturizer,    Bioderma, 296, 600.0,    Spain
